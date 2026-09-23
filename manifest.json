@@ -1,0 +1,6 @@
+{
+  "name": "ERP Examination Module",
+  "short_name": "ExamERP",
+  "start_url": "/",
+  "display": "standalone"
+}
